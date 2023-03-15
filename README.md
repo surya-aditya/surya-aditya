@@ -1,4 +1,4 @@
 ## Folio
 [surya-aditya.com](https://surya-aditya.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya-aditya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/surya-aditya/github-readme-stats)
