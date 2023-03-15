@@ -1,8 +1,10 @@
-## Folio
+## FOLIO
 [surya-aditya.com](https://surya-aditya.com)
 
-## Mail
+## CONTACT
 [vimsa.dev@gmail.com](mailto:vimsa.dev@gmail.com)
 
-## Extra
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/surya-aditya/github-readme-stats)
+## MEDIA
+[Instagram](https://www.instagram.com/sryaaditya__/)
+[Twitter](https://twitter.com/sryaadityaa)
+[Linkedin](https://www.linkedin.com/in/sryaaditya/)
